@@ -3,7 +3,7 @@
 // @namespace  nl.topicus
 // @version    0.12
 // @description  Some basic html and css styling for mod_cluster
-// @match      https://*.digdag.nl/mod_cluster-manager
+// @match      https://*/mod_cluster-manager*
 // @copyright  2014+, Kevin Rummler
 // @require  http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js
 // ==/UserScript==
