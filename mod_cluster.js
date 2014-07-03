@@ -23,7 +23,7 @@ $("span:contains('Node')").addClass('node').wrap('<h3></h3>');
 $("pre:contains('ENABLED')").addClass('enabled');
 $("pre:contains('DISABLED')").addClass('disabled');
 
-$("h4 span:contains('NOTOK')").addClass('notok');
+$("h3 span:contains('NOTOK')").addClass('notok');
 
 $("span:contains('start of')").addClass('listitem');
 $("span:contains('mod_proxy_cluster.c')").addClass('listitem');
