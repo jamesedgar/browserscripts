@@ -22,6 +22,7 @@ $("span:contains('Node')").addClass('node').wrap('<h3></h3>');
 
 $("pre:contains('ENABLED')").addClass('enabled');
 $("pre:contains('DISABLED')").addClass('disabled');
+$("pre:contains('STOPPED')").addClass('disabled');
 
 $("h3 span:contains('NOTOK')").addClass('notok');
 
